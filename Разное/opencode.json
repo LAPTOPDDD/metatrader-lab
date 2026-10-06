@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "read": "allow",
+    "edit": "allow",
+    "bash": "allow",
+    "external_directory": {
+      "D:\\PYTHON\\METATRADER\\**": "allow"
+    }
+  }
+}

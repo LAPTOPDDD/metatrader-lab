@@ -1,0 +1,6 @@
+symbol,timeframe,hold_bars
+EURUSD,M15,10
+AUDUSD,M15,10
+EURUSD,H1,1
+USDJPY,H4,1
+USDJPY,H4,2
